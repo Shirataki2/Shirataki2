@@ -1,6 +1,7 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shirataki2&count_private=true&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shirataki2&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=shirataki2&count_private=true&show_icons=true&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shirataki2&layout=compact&theme=dark)
+
 
 <!--
 **Shirataki2/Shirataki2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
